@@ -11,9 +11,9 @@ Blogsy is a personal blog application built with ASP.NET Core. It allows users t
 
 ## Architecture
 The application is structured using the MVC (Model-View-Controller) pattern, consisting of:
-Models: Define the data structure.
-Views: Render the user interface.
-Controllers: Handle user input and interact with models.
+- Models: Define the data structure.
+- Views: Render the user interface.
+- Controllers: Handle user input and interact with models.
 
 ## Models
 - Author
