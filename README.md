@@ -4,10 +4,10 @@
 Blogsy is a personal blog application built with ASP.NET Core. It allows users to view and interact with blog posts and authors
 
 ## User Access:
-View Published Blogs: Users can browse the titles and subtitles of all published blogs, providing a quick overview of available content.
-Read Full Blog Content: By clicking on a blog title, users can access the full content of the blog post, including detailed text and images.
-List All Blogs: Users can view a comprehensive list of all published blogs, allowing for easy navigation and discovery of content.
-Access Blogs by Author: Users can filter and access blogs based on the author, enabling them to view all posts by a specific writer. This feature enhances the user experience by allowing them to explore content from their favorite authors.
+- View Published Blogs: Users can browse the titles and subtitles of all published blogs, providing a quick overview of available content.
+- Read Full Blog Content: By clicking on a blog title, users can access the full content of the blog post, including detailed text and images.
+- List All Blogs: Users can view a comprehensive list of all published blogs, allowing for easy navigation and discovery of content.
+- Access Blogs by Author: Users can filter and access blogs based on the author, enabling them to view all posts by a specific writer. This feature enhances the user experience by allowing them to explore content from their favorite authors.
 
 ## Architecture
 The application is structured using the MVC (Model-View-Controller) pattern, consisting of:
