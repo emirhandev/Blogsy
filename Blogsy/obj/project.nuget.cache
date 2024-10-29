@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sjxvcRw/GYg=",
+  "dgSpecHash": "grso/T6To7w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\EmirhanBlog.csproj",
+  "projectFilePath": "C:\\Users\\emirh\\Documents\\GitHub\\Blogsy\\EmirhanBlog\\EmirhanBlog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emirh\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\emirh\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

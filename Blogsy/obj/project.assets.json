@@ -4073,11 +4073,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\EmirhanBlog.csproj",
+      "projectUniqueName": "C:\\Users\\emirh\\Documents\\GitHub\\Blogsy\\EmirhanBlog\\EmirhanBlog.csproj",
       "projectName": "EmirhanBlog",
-      "projectPath": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\EmirhanBlog.csproj",
+      "projectPath": "C:\\Users\\emirh\\Documents\\GitHub\\Blogsy\\EmirhanBlog\\EmirhanBlog.csproj",
       "packagesPath": "C:\\Users\\emirh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\obj\\",
+      "outputPath": "C:\\Users\\emirh\\Documents\\GitHub\\Blogsy\\EmirhanBlog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\emirh\\AppData\\Roaming\\NuGet\\NuGet.Config",
