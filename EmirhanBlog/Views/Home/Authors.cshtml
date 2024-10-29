@@ -1,0 +1,58 @@
+@model IEnumerable<EmirhanBlog.Models.Author>
+@{
+}
+<header class="masthead" style="background-image: url('/img/authors.jpg')">
+    <div class="container position-relative px-4 px-lg-5">
+        <div class="row gx-4 gx-lg-5 justify-content-center">
+            <div class="col-md-10 col-lg-8 col-xl-7">
+                <div class="page-heading">
+                    <h1>Authors</h1>
+                    <span class="subheading">See All Posts</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="container mt-4">
+    <h2 class="text-center">@ViewData["Title"]</h2>
+    <div class="row">
+        @foreach (var author in Model) {
+            <div class="col-md-4 mb-4">
+                <a href="/Home/AuthorPosts/@author.Id" class="text-decoration-none">
+                    <div class="card shadow-sm border-light">
+                        <div class="card-body">
+                            <h5 class="card-title">@author.Name @author.Surname</h5>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        }
+    </div>
+</div>
+<style>
+    .card {
+        background-color: #7F7D76; /* Set card background color to yellow */
+        transition: transform 0.2s;
+        cursor: pointer; /* Change cursor to pointer */
+        overflow: hidden; /* Ensure content doesn't overflow */
+    }
+    .card:hover {
+        transform: scale(1.05);
+        box-shadow: 0 4px 8px #d5070733; /* Add shadow on hover */
+    }
+    .btn-primary {
+        background: linear-gradient(90deg, #007bff, #0056b3);
+        border: none;
+    }
+    .btn-primary:hover {
+        background: linear-gradient(90deg, #0056b3, #004085);
+    }
+    /* Optionally add some padding to the card body to make it look better */
+    .card-body {
+        padding: 1.5rem; /* Adjust padding as needed */
+    }
+    .card-title{
+     color: #FFFFFF;
+    }
+</style>
+

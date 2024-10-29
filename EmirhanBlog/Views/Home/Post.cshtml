@@ -1,0 +1,75 @@
+@model EmirhanBlog.Models.Blog
+
+<header class="masthead" style="background-image: url('@Model.ImagePath')">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="post-heading text-center">
+            <h1>@Model.Title</h1>
+            <h2 class="subheading">@Model.Subtitle</h2>
+            <span class="meta">Posted by @Model.Author.Name on @Model.CreatedTime</span>
+          </div>
+        </div>
+      </div>
+    </div>
+</header>
+
+<div class="container">
+  <!-- Post Content -->
+  <article>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+         @Html.Raw(Model.Content)
+        </div>
+      </div>
+    </div>
+  </article>
+</div>
+<br>
+
+<!-- CSS -->
+<style>
+.masthead {
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+    color: white;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    text-align: center;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); 
+}
+
+.post-heading h1, 
+.post-heading h2, 
+.post-heading .meta {
+    z-index: 2; 
+    position: relative;
+}
+
+.post-heading h1 {
+    font-size: 3rem;
+}
+
+.post-heading h2 {
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
+
+.post-heading .meta {
+    font-size: 1rem;
+    margin-top: 20px;
+}
+</style>

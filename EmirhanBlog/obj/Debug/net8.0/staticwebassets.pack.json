@@ -1,0 +1,513 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EmirhanBlog.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EmirhanBlog.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1006235111.png",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1006235111.png"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1006235244.png",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1006235244.png"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1007194406.png",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1007194406.png"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1007200323.png",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1007200323.png"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1007200749.jpg",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1007200749.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1007210200.jpg",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1007210200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1007210326.jpg",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1007210326.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1007210332.jpg",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1007210332.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1007210333.jpg",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1007210333.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1007210336.jpg",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1007210336.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1007210338.jpg",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1007210338.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1007210339.jpg",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1007210339.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1007210347.jpg",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1007210347.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1007210516.jpg",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1007210516.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1007210607.jpg",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1007210607.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1007210610.jpg",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1007210610.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1007210740.jpg",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1007210740.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1007210741.jpg",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1007210741.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1007210745.jpg",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1007210745.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1007210746.jpg",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1007210746.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1007210811.jpg",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1007210811.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1007211150.webp",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1007211150.webp"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1007211243.webp",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1007211243.webp"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1007211334.webp",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1007211334.webp"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1007211423.webp",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1007211423.webp"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1007225744.png",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1007225744.png"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1007235709.png",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1007235709.png"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1008000124.jpg",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1008000124.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1008000213.jpg",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1008000213.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1009005510.webp",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1009005510.webp"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1011221749.jpeg",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1011221749.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1011221814.bmp",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1011221814.bmp"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1011222444.png",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1011222444.png"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1011225241.png",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1011225241.png"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1011225551.bmp",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1011225551.bmp"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1011225619.bmp",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1011225619.bmp"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1011225636.png",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1011225636.png"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1011231431.png",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1011231431.png"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1011231646.bmp",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1011231646.bmp"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1011231711.bmp",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1011231711.bmp"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1011233553.png",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1011233553.png"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1012000800.png",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1012000800.png"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1012000840.png",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1012000840.png"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1012001002.png",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1012001002.png"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1012001017.png",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1012001017.png"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1012001035.bmp",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1012001035.bmp"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1012001206.bmp",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1012001206.bmp"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1012001215.bmp",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1012001215.bmp"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1012001510.png",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1012001510.png"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1012001602.png",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1012001602.png"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1016151643.png",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1016151643.png"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1016151719.png",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1016151719.png"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1016154635.png",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1016154635.png"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\BlogPostImages\\1017140415.png",
+      "PackagePath": "staticwebassets\\img\\BlogPostImages\\1017140415.png"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\about-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\about-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\authors.jpg",
+      "PackagePath": "staticwebassets\\img\\authors.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\contact-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\contact-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\home-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\home-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\post-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\post-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\img\\post-sample-image.jpg",
+      "PackagePath": "staticwebassets\\img\\post-sample-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emirh\\Desktop\\EmirhanBlogProject\\EmirhanBlog\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EmirhanBlog.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EmirhanBlog.props",
+      "PackagePath": "build\\EmirhanBlog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EmirhanBlog.props",
+      "PackagePath": "buildMultiTargeting\\EmirhanBlog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EmirhanBlog.props",
+      "PackagePath": "buildTransitive\\EmirhanBlog.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
