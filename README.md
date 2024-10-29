@@ -1,7 +1,7 @@
 # Blogsy 
 
 ## Project Overview
-Blogsy is a personal blog application built with ASP.NET Core. It allows users to view and interact with blog posts, authors, and categories.
+Blogsy is a personal blog application built with ASP.NET Core. It allows users to view and interact with blog posts and authors
 
 ## User Access:
 View Published Blogs: Users can browse the titles and subtitles of all published blogs, providing a quick overview of available content.
