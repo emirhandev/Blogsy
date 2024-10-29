@@ -40,24 +40,24 @@ Key actions include:
 - Post(int Id): Displays a specific blog post.
 
 ## Home Page
-![Home Page](https://github.com/emirhandev/Blogsy/blob/main/EmirhanBlog/Images/1.png)<br/>
+![Home Page](https://github.com/emirhandev/Blogsy/blob/main/Blogsy/Images/1.png)<br/>
 
-![Home Page](https://github.com/emirhandev/Blogsy/blob/main/EmirhanBlog/Images/2.png)<br/>
+![Home Page](https://github.com/emirhandev/Blogsy/blob/main/Blogsy/Images/2.png)<br/>
 
 ## Blog Page
-![Blog Page](https://github.com/emirhandev/Blogsy/blob/main/EmirhanBlog/Images/3.png)<br/>
+![Blog Page](https://github.com/emirhandev/Blogsy/blob/main/Blogsy/Images/3.png)<br/>
 
 ## Blog Details
-![Blog Details](https://github.com/emirhandev/Blogsy/blob/main/EmirhanBlog/Images/4.png)<br/>
+![Blog Details](https://github.com/emirhandev/Blogsy/blob/main/Blogsy/Images/4.png)<br/>
 
 ## Blog Details
-![Blog Details](https://github.com/emirhandev/Blogsy/blob/main/EmirhanBlog/Images/5.png)<br/>
+![Blog Details](https://github.com/emirhandev/Blogsy/blob/main/Blogsy/Images/5.png)<br/>
 
 ## Authors Page
-![Authors Page](https://github.com/emirhandev/Blogsy/blob/main/EmirhanBlog/Images/6.png)<br/>
+![Authors Page](https://github.com/emirhandev/Blogsy/blob/main/Blogsy/Images/6.png)<br/>
 
 ## Author's Blogs
-![Authors Blogs](https://github.com/emirhandev/Blogsy/blob/main/EmirhanBlog/Images/7.png)<br/>
+![Authors Blogs](https://github.com/emirhandev/Blogsy/blob/main/Blogsy/Images/7.png)<br/>
 
 
 ## Getting Started
