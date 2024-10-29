@@ -56,7 +56,7 @@ Key actions include:
 ## Authors Page
 ![Authors Page](https://github.com/emirhandev/Blogsy/blob/main/EmirhanBlog/Images/6.png)<br/>
 
-## Authors Blogs
+## Author's Blogs
 ![Authors Blogs](https://github.com/emirhandev/Blogsy/blob/main/EmirhanBlog/Images/7.png)<br/>
 
 
