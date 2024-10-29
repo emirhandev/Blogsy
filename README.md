@@ -59,6 +59,7 @@ Key actions include:
 ## Authors Blogs
 ![Authors Blogs](https://github.com/emirhandev/Blogsy/blob/main/EmirhanBlog/Images/7.png)<br/>
 
+
 ## Getting Started
 To run this project locally, follow these steps:
 > Clone the repository:
@@ -70,9 +71,9 @@ To run this project locally, follow these steps:
     cd EmirhanBlog
 
 
-> Install dependencies:
+> Update the Database:
 
-    dotnet restore
+    dotnet ef database update
 
 > Run the application:
 
